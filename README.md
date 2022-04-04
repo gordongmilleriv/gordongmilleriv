@@ -1,3 +1,6 @@
+# About Me
+
+
 - 👋 Hi, I’m @gordongmilleriv
 - 👀 I’m interested in Data science, mathematics and artificial ingelligence
 - 🌱 I’m currently learning Tableau and Spark

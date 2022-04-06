@@ -1,6 +1,6 @@
 # About Me 👋 
 
-Hello there! My name is Gordon. I'm a reccent graduate from James Madison University where I majored in Finance and minored in Data Analytics and Mathematics. I'm currently pursuing a career in data science and am intersted in sharing my personal projects 
+Hello there! My name is Gordon. I'm a reccent graduate from James Madison University where I majored in Finance and minored in Data Analytics and Mathematics. I'm currently pursuing a career in data science and am intersted in sharing my personal projects and contributing to open source projects focussed on machine learning and building data pipelines. 
 
 - 🌱 I’m currently learning Tableau and Apache Spark
 - 💞️ I’m looking to collaborate on open source projects utilizing data pipelines and creating deployment ready machine learning 
